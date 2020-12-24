@@ -1,2 +1,5 @@
 # FlaresMidnight
-Bot
+** This bot is made for servers what owned by Illumnious only.**
+
+
+Commands coming soon.
